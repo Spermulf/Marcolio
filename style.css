@@ -1,0 +1,39 @@
+h1 {
+    color: white;
+    font-size: 70px;
+    margin: 0;
+    background-color: red;
+    text-align: center;
+
+}
+h2 {
+    text-align: center;
+    color: black;
+    font-size: 35px;
+}
+
+p {
+    font-size: 25px;
+    text-align: center;
+
+}
+.img-bjerk {
+    width: 300px;
+    height: 200px;
+
+}
+.img-Gidske {
+    width: 300px;
+    height: 200px;
+
+}
+.img-Kron {
+    width: 300px;
+    height: 200px;
+
+}
+.img-Pitch {
+    width: 750px;
+    height: 350px;
+    text-align: center;
+}
